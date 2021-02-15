@@ -38,9 +38,11 @@ const Layout = props => {
             </ul>
           </nav>
           <div className="site-head-center">
+            {/*<img src="https://www.w3schools.com/images/w3schools_green.jpg" alt="W3Schools.com"></img>*/}
             <Link className="site-head-logo" to={`/`}>
               {title}
             </Link>
+            {/*<img src="https://www.w3schools.com/images/w3schools_green.jpg" alt="W3Schools.com"></img>*/}
           </div>
           <div className="site-head-right">
             <div className="social-links">

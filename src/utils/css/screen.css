@@ -407,10 +407,11 @@ body {
     counter-increment: posts;
 }
 
-@media (max-width: 700px) {
+@media (max-width: 1920px) {
     .post-card {
         flex: 1 1 100%;
         height: 70vw;
+        margin: 25px 25px 25px 25px;
     }
 }
 
