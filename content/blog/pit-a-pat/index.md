@@ -1,8 +1,8 @@
 ---
-title: Pit-a-pat
+title: Pit.a.pat
 date: "2019-05-08"
-thumbnail: ./bbbb.jpg
-description: Darkness cannot drive out darkness; only light can do that. Hate cannot drive out hate; only love can do that.
+thumbnail: ./pit-a-pat.jpg
+description: The internet is full of weird videos, but in recent years more and more are appearing dealing with ASMR. Subtle sounds that stimulate the brain. Now, you can combine all these diverse sounds into a single wonderful, strange, unexpectedly pleasant 'audioscape', completely tailored to what you want to hear.
 ---
 
 ### A wallpaper series using shapes and light by [Jean-Marc Denis](http://jmd.im/black)
@@ -13,7 +13,7 @@ This is the final render.
 
 <div class="kg-card kg-image-card kg-width-full">
 
-![Darkness](./BLACK_II_desktop-1.jpg)
+[![Pit.a.pat](./BLACK_II_desktop-1.jpg)](https://pitapat.org/)
 
 </div>
 
