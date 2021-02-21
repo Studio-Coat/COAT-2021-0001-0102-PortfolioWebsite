@@ -1,7 +1,7 @@
 ---
 title: Scarcities
 date: "2019-05-08"
-thumbnail: ./heatmap.png
+thumbnail: ./thumbnail-scarcities.png
 description: The internet is full of weird videos, but in recent years more and more are appearing dealing with ASMR. Subtle sounds that stimulate the brain. Now, you can combine all these diverse sounds into a single wonderful, strange, unexpectedly pleasant 'audioscape', completely tailored to what you want to hear.
 ---
 

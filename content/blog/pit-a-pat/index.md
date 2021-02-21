@@ -1,27 +1,20 @@
 ---
 title: Pit.a.pat
 date: "2019-05-08"
-thumbnail: ./pit-a-pat.jpg
+thumbnail: ./pap1910.png
 description: The internet is full of weird videos, but in recent years more and more are appearing dealing with ASMR. Subtle sounds that stimulate the brain. Now, you can combine all these diverse sounds into a single wonderful, strange, unexpectedly pleasant 'audioscape', completely tailored to what you want to hear.
 ---
 
-### A wallpaper series using shapes and light by [Jean-Marc Denis](http://jmd.im/black)
+### Visit [pitapat.org](https://pitapat.org/)
 
-I used a poly reduction on the mesh as a proxy to be able to create my studio setup with a responsive viewport. I used a simple 2 point lighting setup. I created a roughness map using the height map to get the exact results I was looking. After that, I applied my material to the high poly mesh and used a subtle smoothing deformer for the creases.
 
-This is the final render.
+This is a listening landscape. 
+Move around the room, click, hold and drag the shapes. 
+But above all: listen very carefully! 
+(preferably with headphones)
 
-<div class="kg-card kg-image-card kg-width-full">
+<video src="./pit-a-pat-website-video.mp4" class="kg-card kg-image-card kg-width-full" controls autoplay></video>
 
-[![Pit.a.pat](./BLACK_II_desktop-1.jpg)](https://pitapat.org/)
-
-</div>
-
-<div class="kg-card kg-image-card kg-width-full">
-
-![Darkness](./BLACK_IX_desktop-1.jpg)
-
-</div>
 
 <div class="kg-card kg-image-card kg-width-full">
 
