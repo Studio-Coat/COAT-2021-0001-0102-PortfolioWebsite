@@ -17,37 +17,24 @@ const AboutPage = ({ data }, location) => {
 
       <article className="post-content page-template no-image">
         <div className="post-content-body">
-          <h2 id="clean-minimal-and-deeply-customisable-london-is-a-theme-made-for-people-who-appreciate-simple-lines-">
-            Clean, minimal, and deeply customisable. London is a theme made for
-            people who appreciate simple lines.
-          </h2>
-          <figure className="kg-card kg-image-card kg-width-full">
-            <Img
-              fluid={data.benchAccounting.childImageSharp.fluid}
-              className="kg-image"
-            />
-            <figcaption>Large imagery is at the heart of this theme</figcaption>
-          </figure>
-          <h3 id="dynamic-styles">Dynamic styles</h3>
+          <h2 id="dynamic-styles">About</h2>
           <p>
-            London comes with photo-centric main layout best suited to
-            photography, graphics portfolios and other image-heavy uses.
+            The pandemic turned the world upside down and forced almost everyone
+            to work/study from home, although it has been proven that a good
+            online experience is crucial. Whether it's a digital meeting,
+            shopping, or sports, we all want it to work smoothly and well.
           </p>
           <p>
-            Both post and page templates are light and minimal, with all the
-            focus on the content while the design of the theme gets out of the
-            way. Beneath the hood, London enjoys the full power of the{" "}
-            <a href="https://docs.ghost.org/api/handlebars-themes/">
-              Ghost Handlebars Theme API
-            </a>{" "}
-            to provide limitless customisation options and dynamic styles.
+            That's why Studio Coat exists to be a creative company that makes
+            digital solutions to online problems. From building websites to
+            interactive experiences and using A.R. to A.I., with Studio Coat,
+            the goal is to use technology to improve the online experiences and
+            making new technology tangible and understandable.
           </p>
           <p>
-            Don't forget to check out the{" "}
-            <a href="https://docs.ghost.org/integrations/">
-              Ghost Integrations Directory
-            </a>{" "}
-            for more ways to integrate Ghost with your favourite services.
+            Intressesed? Mail to:{" "}
+            <a href="mailto:contact@studiocoat.nl">contact@studiocoat.nl</a> or
+            call +31 6
           </p>
         </div>
       </article>

@@ -38,37 +38,35 @@ const Layout = props => {
             </ul>
           </nav>
           <div className="site-head-center">
-            {/*<img src="https://www.w3schools.com/images/w3schools_green.jpg" alt="W3Schools.com"></img>*/}
             <Link className="site-head-logo" to={`/`}>
               {title}
             </Link>
-            {/*<img src="https://www.w3schools.com/images/w3schools_green.jpg" alt="W3Schools.com"></img>*/}
           </div>
           <div className="site-head-right">
             <div className="social-links">
               <a
-                href="https://www.facebook.com"
-                title="Facebook"
+                href="https://www.instagram.com"
+                title="Instagram"
                 target="_blank"
                 rel="noopener noreferrer"
               >
-                Facebook
+                Instagram
               </a>
               <a
-                href="https://twitter.com"
-                title="Twitter"
+                href="https://github.com/Studio-Coat"
+                title="Github"
                 target="_blank"
                 rel="noopener noreferrer"
               >
-                Twitter
+                Github
               </a>
               <Link
-                to={`/rss.xml`}
-                title="RSS"
+                href="mailto:contact@studiocoat.nl"
+                title="Mail"
                 target="_blank"
                 rel="noopener noreferrer"
               >
-                RSS
+                Mail
               </Link>
             </div>
           </div>
