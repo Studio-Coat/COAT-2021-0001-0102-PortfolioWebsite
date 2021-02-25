@@ -2,14 +2,10 @@
 title: Beyond Advertising
 date: "2019-05-08"
 thumbnail: ./thumbnail-beyond-advertising.png
-description: Darkness cannot drive out darkness; only light can do that. Hate cannot drive out hate; only love can do that.
+description: Discover the collection of WdKA’s third year Advertising students (2020) ready for a internship during the pandemic.
 ---
 
-### A wallpaper series using shapes and light by [Jean-Marc Denis](http://jmd.im/black)
-
-I used a poly reduction on the mesh as a proxy to be able to create my studio setup with a responsive viewport. I used a simple 2 point lighting setup. I created a roughness map using the height map to get the exact results I was looking. After that, I applied my material to the high poly mesh and used a subtle smoothing deformer for the creases.
-
-This is the final render.
+As a new generation of creatives, the students believe that the world of advertising has to change. They desire to see a world in which we leave the old ways of advertising behind and where we can use our creativity as a skill to create a better future, a better world. By wishing to create concepts for a diversity of future problems and to think critically about what we hear and see around us.
 
 <div class="kg-card kg-image-card kg-width-full">
 

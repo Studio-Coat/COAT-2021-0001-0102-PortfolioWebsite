@@ -32,9 +32,9 @@ const AboutPage = ({ data }, location) => {
             making new technology tangible and understandable.
           </p>
           <p>
-            Intressesed? Mail to:{" "}
+            Intressesed? Contact me at:{" "}
             <a href="mailto:contact@studiocoat.nl">contact@studiocoat.nl</a> or
-            call +31 6
+            call +31 6 83 56 61 14
           </p>
         </div>
       </article>
