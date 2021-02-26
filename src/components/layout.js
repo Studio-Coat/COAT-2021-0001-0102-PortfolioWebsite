@@ -33,7 +33,7 @@ const Layout = props => {
                 <Link to={`/about`}>About</Link>
               </li>
               <li className="nav-elements" role="menuitem">
-                <Link to={`/elements`}>Elements</Link>
+                <Link to={`/elements`}>Contact</Link>
               </li>
             </ul>
           </nav>
@@ -42,7 +42,7 @@ const Layout = props => {
               {title}
             </Link>
           </div>
-          <div className="site-head-right">
+          {/* <div className="site-head-right">
             <div className="social-links">
               <a
                 href="https://www.instagram.com"
@@ -68,8 +68,8 @@ const Layout = props => {
               >
                 Mail
               </Link>
-            </div>
-          </div>
+            </div> */}
+          {/* </div> */}
         </div>
       </header>
       <main id="site-main" className="site-main">
