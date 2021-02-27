@@ -11,20 +11,12 @@ I used a poly reduction on the mesh as a proxy to be able to create my studio se
 
 This is the final render.
 
-<div class="kg-card kg-image-card kg-width-full">
+<video class="kg-card kg-image-card kg-width-wide" src="./3D-heatmap-Appartement.mp4" loop autoplay></video>
 
-[![Scarcities](./BLACK_II_desktop-1.jpg)](https://pitapat.org/)
+<video class="kg-card kg-image-card kg-width-wide" src="./markthal-ai-vision.mp4" loop autoplay></video>
 
-</div>
+<div class="kg-card kg-image-card kg-width-wide">
 
-<div class="kg-card kg-image-card kg-width-full">
-
-![Darkness](./BLACK_IX_desktop-1.jpg)
-
-</div>
-
-<div class="kg-card kg-image-card kg-width-full">
-
-![Darkness](./BLACK_I_desktop-1.jpg)
+![Pit.A.Pat](./cinekids-post.jpg)
 
 </div>
