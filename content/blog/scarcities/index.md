@@ -2,21 +2,15 @@
 title: Scarcities
 date: "2019-05-08"
 thumbnail: ./thumbnail-scarcities.png
-description: The internet is full of weird videos, but in recent years more and more are appearing dealing with ASMR. Subtle sounds that stimulate the brain. Now, you can combine all these diverse sounds into a single wonderful, strange, unexpectedly pleasant 'audioscape', completely tailored to what you want to hear.
+description: When we look around us, we are surrounded by data. By making this data usable, we have developed a module in which images are converted into heat maps. With this, the use of space is visualized and accurately depicted.
 ---
 
-### A wallpaper series using shapes and light by [Jean-Marc Denis](http://jmd.im/black)
-
-I used a poly reduction on the mesh as a proxy to be able to create my studio setup with a responsive viewport. I used a simple 2 point lighting setup. I created a roughness map using the height map to get the exact results I was looking. After that, I applied my material to the high poly mesh and used a subtle smoothing deformer for the creases.
-
-This is the final render.
-
-<video class="kg-card kg-image-card kg-width-wide" src="./3D-heatmap-Appartement.mp4" loop autoplay></video>
+Our inner cities are becoming increasingly crowded. Square meters increasingly expensive and scarce. As designers, we face many challenges today. The densification process is one of them, with a great demand for spatial solutions, small and large. The question is where we base our designs and investments. Mapping the use of space can provide a lot of insight into this. Unfortunately, this raw data is not always usable and must be translated into insightful information.
 
 <video class="kg-card kg-image-card kg-width-wide" src="./markthal-ai-vision.mp4" loop autoplay></video>
 
-<div class="kg-card kg-image-card kg-width-wide">
+Translating aimlessly public, private-owned space into heat maps. As a result of which, more insight can be created into possible spatial interventions. For example, the collected data can contribute to perhaps more activity and natural surveillance.
 
-![Pit.A.Pat](./cinekids-post.jpg)
+<video class="kg-card kg-image-card kg-width-wide" src="./3D-heatmap-Appartement.mp4" loop autoplay></video>
 
-</div>
+By converting the raw data into usable information, we can create spatial insight through 3D heatmaps models.
