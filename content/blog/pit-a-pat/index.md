@@ -13,6 +13,6 @@ The internet is full of weird videos, but in recent years more and more are appe
 
 </div>
 
-<video src="./pit-a-pat-website-video.mp4" controls loop width="720" height="480"></video>
+<video src="./pit-a-pat-website-video.mp4" controls loop width="720" height="480" autoplay></video>
 
 The physical version of pit-a-pat was available to experience during the Cinekid festival 2020. Fortunately, pit-a-pat was also adopted for the web because of the pandamic and is still available to visit at <a href="http://pitapat.org/">pitapat.org</a>.
