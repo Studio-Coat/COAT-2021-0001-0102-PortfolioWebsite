@@ -6,5 +6,4 @@ module.exports = {
   url: "https://studiocoat.nl", // Domain of your site without prefix!
   prefix: "/",
   author: "Jasper Kamphuis",
-  twitter: "Imed_Adel",
 }

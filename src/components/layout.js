@@ -32,9 +32,6 @@ const Layout = props => {
               <li className="nav-about" role="menuitem">
                 <Link to={`/about`}>About / Contact</Link>
               </li>
-              {/* <li className="nav-elements" role="menuitem">
-                <Link to={`/elements`}>Contact</Link>
-              </li> */}
             </ul>
           </nav>
           <div className="site-head-center">
@@ -42,34 +39,6 @@ const Layout = props => {
               {title}
             </Link>
           </div>
-          {/* <div className="site-head-right">
-            <div className="social-links">
-              <a
-                href="https://www.instagram.com"
-                title="Instagram"
-                target="_blank"
-                rel="noopener noreferrer"
-              >
-                Instagram
-              </a>
-              <a
-                href="https://github.com/Studio-Coat"
-                title="Github"
-                target="_blank"
-                rel="noopener noreferrer"
-              >
-                Github
-              </a>
-              <Link
-                href="mailto:contact@studiocoat.nl"
-                title="Mail"
-                target="_blank"
-                rel="noopener noreferrer"
-              >
-                Mail
-              </Link>
-            </div> */}
-          {/* </div> */}
         </div>
       </header>
       <main id="site-main" className="site-main">
